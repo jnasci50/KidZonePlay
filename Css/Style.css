@@ -44,9 +44,9 @@ p {
 
 .titulo_fotos {
 
-    font-size: 15px;
+    font-size: 25px;
     font-family: 'Dancing Script', cursive;
-    /*font-weight: bold;*/
+    font-weight: normal;
     text-align: center;
 }
 
