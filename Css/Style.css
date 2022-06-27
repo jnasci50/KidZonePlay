@@ -42,6 +42,13 @@ p {
     font-weight: 50;
 }
 
+.titulo_fotos {
+
+    font-size: 5px;
+    font-family: 'Dancing Script', cursive;
+    font-weight: bold;
+}
+
 #fotos {
 
     border-style: solid;
